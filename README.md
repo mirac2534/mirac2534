@@ -3,7 +3,7 @@
 __I'm a Computer Engineering student who is passionate about learning and growing through real-world projects. I explore many areas of software development and continuously improve myself by diving into both frontend and backend technologies. Feel free to connect with me or ask anything you'd like!__
 
 ## 📫 How to Reach Me  
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ahmetf-y/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mirac-furkan-durmaz/)
 
 ## 🚀 Languages and Tools  
 [![My Skills](https://skillicons.dev/icons?i=c,python,java,flutter,dart,postgres,spring,docker,git,postman)](https://skillicons.dev) 
@@ -16,7 +16,7 @@ __I'm a Computer Engineering student who is passionate about learning and growin
 </p>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=ahmetyuksektepe&label=Profile%20views&color=4CAF50&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=mirac2534&label=Profile%20views&color=4CAF50&style=flat"/>
 </p>
 
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)

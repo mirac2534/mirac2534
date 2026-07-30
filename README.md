@@ -15,8 +15,6 @@ __I'm a Computer Engineering student who is passionate about learning and growin
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirac2534&layout=compact&hide=html,css&theme=default" alt="Top Languages" />
 </p>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=mirac2534&label=Profile%20views&color=4CAF50&style=flat"/>
-</p>
+
 
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
